@@ -247,63 +247,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 }
 
 
-/* Login section */
-#login {
-	background: #f6f6f6 url('../images/14.jpg') 50% 0 repeat-y fixed;
-	color: black;
-	padding-top: 100px;
-	padding-bottom: 80px;
-}
-#login h2 {
-	color: #ffffff;
-}
-#login .form-control {
-	border-radius: 4px;
-	border: none;
-	box-shadow: none;
-	margin-top: 12px;
-	margin-bottom: 14px;
-}
-#login input {
-	height: 50px;
-}
-#login input[type="submit"] {
-	background-color: #eb5424;
-	color: #ffffff;
-	height: 60px;
-	font-weight: bold;
-	transition: all 0.4s ease-in-out;
-}
-#login input[type="submit"]:hover {
-	background-color: #202020;
-}
 
-.left{
-	float:left;
-	width:25%;
-	margin-left:1%;
-}
-
-.middle{
-	margin-left:27%;
-	margin-top:2%;
-	width:40%;
-}
-
-.right{
-	float:right;
-	margin-top:-28.5%;
-	margin-right:2%;
-	width:30%;
-}
-/*Career section*/
-.uploadFile{
-	margin-left: 45%;
-}
-
-#career{
-	padding-top:100px;
-}
 /* Order Section*/
 
 #order{
@@ -326,6 +270,11 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
     cursor: pointer;
 }
 
+
+
+
+
+/* customer section */
 
 .dropdown {
     position: relative;
@@ -366,8 +315,6 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
     background-color: #3e8e41;
 }
 
-
-/* customer section */
 body {font-family: Arial;}
 .btn{
 	margin-top:20px;
@@ -585,46 +532,7 @@ color:orange;
 	text-shadow:0px 1px 0px #2f6627;
 }
 
-/* employee section */
-#empl {
-	background: url('../images/1.jpg') 50% 0 repeat-y fixed;
-	color:darkblue;
-	padding-top: 100px;
-	padding-bottom: 100px;
 
-}
-
-#empl .container {
-	width: 100%;
-	padding-left: 10px;
-	padding-right: 20px;
-	margin-left: 10px;
-	margin-right: 20px;
-}
-#empl h2 {
-	line-height: 10px;
-	margin-bottom: 90px;
-}
-#empl h3 {
-	color: #eb5424;
-	padding-bottom: 10px;
-}
-#empl a {
-	text-decoration: none;
-}
-#empl img {
-	border-radius: 1px;
-	width: 60%;
-	max-width: 60%;
-	height: 60%;
-	opacity: 0.8;
-	margin-bottom: 34px;
-	opacity: 0.6;
-	transition: all 0.4s ease-in-out;
-}
-#empl img:hover {
-	opacity: 0.9;
-}
 
 
 
